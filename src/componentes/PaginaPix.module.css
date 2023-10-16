@@ -1,0 +1,304 @@
+.texto {
+    height: 90%;
+    width: 40%;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+p1 {
+    height: 90%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    color: #000;
+    font-size: 20px;
+
+}
+
+h1 {
+    height: 90%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.caixa_pequena1,
+.caixa_pequena2 {
+    width: 50%;
+    height: auto;
+
+}
+
+.caixa_pequena1 {
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    font-size: 20px;
+
+}
+
+.caixa_pequena2 img {
+    width: 80%;
+    height: 80%;
+
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid violet;
+    height: 25px;
+    width: 300px;
+
+}
+
+button {
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+svg {
+    height: 80px;
+    max-width: 100%;
+    flex: 1;
+
+
+}
+
+.iconi {
+    display: flex;
+    padding: 100px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 30%;
+    max-height: 50px;
+
+
+}
+
+.texto {
+    height: 90%;
+    width: 40%;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.caixa {
+    margin: 0 auto;
+    width: 95%;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.texto {
+    height: 90%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+.caixa {
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    overflow-x: hidden;
+
+}
+
+.texto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0.5px;
+    font-size: 20px;
+
+}
+
+
+.caixa {
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    overflow-x: hidden;
+
+}
+
+.caixa123 {
+    background-color: black;
+    display: flex;
+    height: 220px;
+    width: 100%;
+    flex-direction: row;
+
+}
+
+.caixa,
+.caixa h2,
+.caixa h6 {
+    background-color: transparent;
+    color: #fff;
+
+}
+
+.caixa h3 {
+    background-color: transparent;
+    color: #fff;
+    display: flex;
+    margin-left: 100px;
+
+}
+
+.caixa ul,
+.caixa li,
+.caixa a {
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+
+}
+
+.caixa li {
+    cursor: pointer;
+
+}
+
+.caixa li:hover{
+    text-decoration: underline;
+
+}
+
+.caixa ul{
+    list-style: none;
+
+}
+
+.icons {
+    margin-left: 20px;
+    color: #fff;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+.icons svg{
+    background-color: #fff;
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+
+}
+
+.pix {
+    display: flex;
+    padding: 100px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 30%;
+
+}
+
+.caixa {
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    overflow-x: hidden;
+
+}
+
+.texto {
+    height: 90%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+p {
+    display: flex;
+    color: #FFFFFF;
+
+}
+
+article {
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10%;
+
+}
+
+.texto {
+    height: 90%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 20px;
+
+}

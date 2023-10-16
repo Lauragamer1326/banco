@@ -37,7 +37,7 @@ export default function caixa() {
                     <h1>Pix</h1>
                     <p>Um novo jeito fazer pagamentos a hora que quiser</p>
         
-                    <Link to="./Pages"> Saiba Mais</Link>
+                    <Link to="/PaginaPix"> Saiba Mais</Link>
                     
                 </div>
             </div>

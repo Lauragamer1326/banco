@@ -1,5 +1,6 @@
 import Style from '../componentes/header.module.css'
 import banco from '../img/banco.png'
+import {Link} from 'react-router-dom'
 export default function Header(){
     return(
         <header className={Style.container}>
@@ -7,13 +8,17 @@ export default function Header(){
                 <nav className={Style.menu}>
                 <ul>
                     <li>
-                        <a href='/about'>Inicio</a>
+                    <a> <Link to="/"> Inicio</Link> </a>
                     </li>
                     <li>
                         <a href='/about'>Sobre</a>
                     </li>
                     <li>
-                        <a href='/about'>Cartão</a>
+                        <a> <Link to="/"> Cartão</Link> </a>
+                    </li>
+
+                    <li>
+                   <a> <Link to="/PaginaPix"> Saiba Mais</Link> </a>
                     </li>
                     
                 </ul>

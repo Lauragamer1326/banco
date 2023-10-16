@@ -23,28 +23,21 @@ function App() {
   return (
     <body>
       <Router>
-        <Header />
-        <Home />
+      <Header />
+        
+
+       
+
+        <Routes>
+          <Route exact path='/' element={<Home />} />
+          <Route path='/PaginaPix' element={<SaibaMais />} />
+        </Routes >
         <Cartão />
         <Meio />
         <Caixa />
         <Bem1 />
         <Formulario />
         <Rodape />
-
-        <Funciona />
-        <Banco />
-        <Texto />
-        <Pagamento />
-        <Beneficios />
-        <Ponto />
-        <Bem />
-        <Form />
-        <Rodape1 />
-
-        <Routes>
-          <Route path='./Pages' element={<SaibaMais />} />
-        </Routes >
       </Router>
     </body>
 

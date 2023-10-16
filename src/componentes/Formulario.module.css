@@ -40,4 +40,9 @@ button{
     border-radius: 5px;
     cursor: pointer;
     font-size: 20px;
+
+}
+
+.container{
+    display: flex;
 }
