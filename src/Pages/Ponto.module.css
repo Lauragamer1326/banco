@@ -1,0 +1,23 @@
+.texto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0.5px;
+    font-size: 20px;
+
+}
+
+
+.caixa {
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    overflow-x: hidden;
+
+}

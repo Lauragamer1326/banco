@@ -1,0 +1,41 @@
+svg {
+    height: 80px;
+    max-width: 100% ;
+    flex: 1;
+
+
+}
+
+.iconi {
+    display: flex;
+    padding: 100px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 30%;
+    max-height: 50px;
+    
+
+}
+
+.texto {
+    height: 90%;
+    width: 40%;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.caixa {
+    margin: 0 auto;
+    width: 95%;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+

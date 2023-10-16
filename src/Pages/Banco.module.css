@@ -1,0 +1,11 @@
+
+.texto {
+    height: 90%;
+    width: 40%;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}

@@ -1,0 +1,56 @@
+svg {
+    height: 80px;
+    max-width: 100% ;
+    flex: 1;
+
+
+}
+
+p {
+    display: flex;
+    color: #FFFFFF;
+
+}
+
+.texto {
+    height: 90%;
+    width: 40%;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.caixa {
+    margin: 0 auto;
+    width: 95%;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.caixa_pequena {
+    width: 22%;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+
+ul {
+    color: aqua;
+    text-decoration: none;
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    overflow-x: hidden;
+
+}

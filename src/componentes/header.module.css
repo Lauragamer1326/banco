@@ -1,0 +1,50 @@
+*{
+    background-color: #6B48A8;
+   
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.robo{
+    flex-direction: row;
+    width: 140px;
+    height: 140px;
+
+}
+
+.banco{
+    flex-direction: row;
+    width: 140px;
+    height: 140px;
+
+}
+
+.menu{
+    width: 500px;
+
+}
+
+ul{
+    color: aqua;
+    text-decoration: none;
+    width: 100%;
+    list-style-type:none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+
+}
+
+a{
+    color: #FFFFFF;
+}

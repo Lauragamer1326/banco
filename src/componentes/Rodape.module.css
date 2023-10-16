@@ -1,0 +1,65 @@
+.caixa123 {
+    background-color: black;
+    display: flex;
+    height: 220px;
+    width: 100%;
+    flex-direction: row;
+
+}
+
+.caixa,
+.caixa h2,
+.caixa h6 {
+    background-color: transparent;
+    color: #fff;
+
+}
+
+.caixa h3 {
+    background-color: transparent;
+    color: #fff;
+    display: flex;
+    margin-left: 100px;
+
+}
+
+.caixa ul,
+.caixa li,
+.caixa a {
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+
+}
+
+.caixa li {
+    cursor: pointer;
+
+}
+
+.caixa li:hover{
+    text-decoration: underline;
+
+}
+
+.caixa ul{
+    list-style: none;
+
+}
+
+.icons {
+    margin-left: 20px;
+    color: #fff;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+.icons svg{
+    background-color: #fff;
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+}

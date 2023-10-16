@@ -1,0 +1,43 @@
+.caixa_pequena1, .caixa_pequena2{
+    width: 50%;
+    height: auto;
+
+}
+
+.caixa_pequena1{
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    font-size: 20px;
+
+}
+
+.caixa_pequena2 img{
+    width: 80%;
+    height: 80%;
+
+}
+
+label{
+    display: flex;
+    flex-direction: column;
+
+}
+
+input{
+    border-radius: 5px;
+    border: 1px solid violet;
+    height: 25px;
+    width: 300px;
+
+}
+
+button{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
