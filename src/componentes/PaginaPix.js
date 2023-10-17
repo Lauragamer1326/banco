@@ -145,6 +145,8 @@ function PaginaPix() {
                 A chave aleatória é gerada pelo Banco Central para o Pix.</p>
                 </div>
 
+                <Link to="/PaginaPix"> Saiba Mais</Link>
+
         </article>
 
     )
